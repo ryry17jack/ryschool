@@ -81,6 +81,13 @@
 	  <div class="container main">
 		  <div class="row">
 			  <div class="col-xs-12 col-sm-3 leftnav">
+				  <p class="navhead thaisanslite">ผู้บริหาร</p>
+				  <center>
+					  <img src="img/director.jpg" alt="director" width="220px" style="padding-bottom: 10px; padding-top: 10px;">
+					  <p><div class="thaisanslite" style="font-size: 1.8rem; font-weight: 600">นายกิตติ์ภูมิ คงศรี</div>
+					  <div class="thaisanslite" style="font-size: 1.3rem;">ผู้อำนวยการโรงเรียน</div></p>
+				  </center>
+			  		<p class="text-right"><a href="#" class="thaisanslite" style="font-size: 1.2rem">ทำเนียบผู้บริหาร</a>&nbsp;&nbsp;</p>
 				  <p class="navhead thaisanslite">เมนูหลัก</p>
 				  <div class="navbtn"><a href="#" class="navlink thaisanslite">หน้าหลัก</a></div>
 				  <div class="navbtn"><a href="#" class="navlink thaisanslite">ประวัติโรงเรียน</a></div>
